@@ -1,4 +1,4 @@
-[![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
+![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
 <h1 align="center">Hi 👋, I'm Ahmed Mujtaba</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
