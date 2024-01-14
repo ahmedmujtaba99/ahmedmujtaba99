@@ -1,15 +1,30 @@
 ![MasterHead](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
 <h1 align="center">Hi 👋, I'm Ahmed Mujtaba</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" >
+<h3 align="center">A passionate Manual/Automated Test Engineer and Web developer from Pakistan</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif" > -->
+
+<ul>
+  <li>🌅 I am constantly seeking to learn more about tech and to expand my professional horizons</li>
+  <li>:octocat: Would love to collaborate with like-minded people on interesting new projects 🤝</li>
+  <li>👀 Have recently begun my career in coding with FunduTester</li>
+</ul>
 
 
-- 🌱 I’m currently learning **React, Python/Django**
 
-- 💬 Ask me about **Web Development**
+
+- 🌱 I’m currently learning **SQA, React, NodeJs Express/ MongoDB**
+
+- 💬 Ask me about **Testing and Web Development**
 
 - 📫 How to reach me **ahmedmujtaba.cs@gmail.com**
+
+<h4>I am currently working on: </h4>
+ <ul>
+   <li>📚 Improving my automated testing skills 😃</li>
+   <li>🧱Learning webDevelpoment 🎨</li>
+ </ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
